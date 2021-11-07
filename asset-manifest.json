@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GamesReact/static/css/main.6b2aa923.chunk.css",
+    "main.js": "/GamesReact/static/js/main.0cc49249.chunk.js",
+    "main.js.map": "/GamesReact/static/js/main.0cc49249.chunk.js.map",
+    "runtime-main.js": "/GamesReact/static/js/runtime-main.32420f92.js",
+    "runtime-main.js.map": "/GamesReact/static/js/runtime-main.32420f92.js.map",
+    "static/js/2.6d1df294.chunk.js": "/GamesReact/static/js/2.6d1df294.chunk.js",
+    "static/js/2.6d1df294.chunk.js.map": "/GamesReact/static/js/2.6d1df294.chunk.js.map",
+    "static/js/3.00c4925c.chunk.js": "/GamesReact/static/js/3.00c4925c.chunk.js",
+    "static/js/3.00c4925c.chunk.js.map": "/GamesReact/static/js/3.00c4925c.chunk.js.map",
+    "index.html": "/GamesReact/index.html",
+    "static/css/main.6b2aa923.chunk.css.map": "/GamesReact/static/css/main.6b2aa923.chunk.css.map",
+    "static/js/2.6d1df294.chunk.js.LICENSE.txt": "/GamesReact/static/js/2.6d1df294.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/GamesReact/static/media/dota.5a995b8a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32420f92.js",
+    "static/js/2.6d1df294.chunk.js",
+    "static/css/main.6b2aa923.chunk.css",
+    "static/js/main.0cc49249.chunk.js"
+  ]
+}
