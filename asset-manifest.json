@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/GamesReact/static/css/main.6b2aa923.chunk.css",
-    "main.js": "/GamesReact/static/js/main.8b2157c1.chunk.js",
-    "main.js.map": "/GamesReact/static/js/main.8b2157c1.chunk.js.map",
+    "main.css": "/GamesReact/static/css/main.7152026a.chunk.css",
+    "main.js": "/GamesReact/static/js/main.7fdc09e1.chunk.js",
+    "main.js.map": "/GamesReact/static/js/main.7fdc09e1.chunk.js.map",
     "runtime-main.js": "/GamesReact/static/js/runtime-main.32420f92.js",
     "runtime-main.js.map": "/GamesReact/static/js/runtime-main.32420f92.js.map",
-    "static/js/2.0e5ffc64.chunk.js": "/GamesReact/static/js/2.0e5ffc64.chunk.js",
-    "static/js/2.0e5ffc64.chunk.js.map": "/GamesReact/static/js/2.0e5ffc64.chunk.js.map",
+    "static/js/2.5ff392eb.chunk.js": "/GamesReact/static/js/2.5ff392eb.chunk.js",
+    "static/js/2.5ff392eb.chunk.js.map": "/GamesReact/static/js/2.5ff392eb.chunk.js.map",
     "static/js/3.00c4925c.chunk.js": "/GamesReact/static/js/3.00c4925c.chunk.js",
     "static/js/3.00c4925c.chunk.js.map": "/GamesReact/static/js/3.00c4925c.chunk.js.map",
     "index.html": "/GamesReact/index.html",
-    "static/css/main.6b2aa923.chunk.css.map": "/GamesReact/static/css/main.6b2aa923.chunk.css.map",
-    "static/js/2.0e5ffc64.chunk.js.LICENSE.txt": "/GamesReact/static/js/2.0e5ffc64.chunk.js.LICENSE.txt",
+    "static/css/main.7152026a.chunk.css.map": "/GamesReact/static/css/main.7152026a.chunk.css.map",
+    "static/js/2.5ff392eb.chunk.js.LICENSE.txt": "/GamesReact/static/js/2.5ff392eb.chunk.js.LICENSE.txt",
     "static/media/style.css": "/GamesReact/static/media/dota.5a995b8a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.32420f92.js",
-    "static/js/2.0e5ffc64.chunk.js",
-    "static/css/main.6b2aa923.chunk.css",
-    "static/js/main.8b2157c1.chunk.js"
+    "static/js/2.5ff392eb.chunk.js",
+    "static/css/main.7152026a.chunk.css",
+    "static/js/main.7fdc09e1.chunk.js"
   ]
 }
